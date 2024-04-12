@@ -15,18 +15,18 @@ A code refactoring for a marketing agency's website, to make it more accessible 
 This project does not require an installation. However, you are welcome to to either clone the repository and access the project files or fork the repo.
 
 ## Usage
-The idea of completing this project is to simulate the process of code refactoring for a marketing agency a webpage with the goal to make the site more accesible to users with disabilities and to improve search engine optimization
+The idea of completing this project is to simulate the process of code refactoring for a marketing agency a webpage with the goal to make the site more accesible to users with disabilities and to improve search engine optimization.
 
 ![image of Horiseon's website](https://github.com/AndresAlbornozgil/horiseon-optimized-accessibility/assets/73376242/e68e5968-cf98-4268-ba99-929ebb724f11)
 
 ## Credits
-I would like to give credit to myself for completing this project
+I would like to give credit to myself for completing this project.
 
 ## License
-This project is unlicensed
+This project is unlicensed.
 
 ## How to Contribute
-Currently there is no need for contribution
+Currently there is no need for contribution.
 
 ## Tests
-Tested at the time of deployment
+Tested at the time of deployment.
