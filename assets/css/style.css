@@ -21,18 +21,6 @@ p {
     font-size: 16px;
 }
 
-/* Used to position the image */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* Used to position the image */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Apllies style to the header class */
 .header {
     padding: 20px;
@@ -76,6 +64,18 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/* Used to position the image */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Used to position the image */
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Applies style to content class */
