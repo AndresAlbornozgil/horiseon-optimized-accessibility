@@ -20,7 +20,7 @@ The idea of completing this project is to simulate the process of code refactori
 ![image of Horiseon's website](https://github.com/AndresAlbornozgil/horiseon-optimized-accessibility/assets/73376242/e68e5968-cf98-4268-ba99-929ebb724f11)
 
 ## Credits
-I would like to give credit to myself for completing this project.
+Andres Albornoz
 
 ## License
 This project is unlicensed.
